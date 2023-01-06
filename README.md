@@ -92,10 +92,3 @@ Once your server has started, go to this url `http://localhost:1234/` to see the
 
 ---
 
-## Template Instructions:
-
-### Step 1 - STRUCTURE
-
-Go to `/src/index.html` and put your information, there are 5 sections:
-
-----
